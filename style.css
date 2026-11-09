@@ -584,7 +584,7 @@ body {
         border-radius: 30px;
     }
     .action-box p { font-size: 0.95rem; line-height: 1.45; }
-    .cta-button { font-size: 1rem; padding: 14px 16px; border-radius: 40px; }
+    .cta-button { font-size: 1rem; padding: 14px 16px; border-radius: 30px; }
 }
 
 /* Дуже малі екрани (≤ 380px) */
